@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+    <id>pc1</id>
+    <tags group="basic">
+        <tag name="age">30</tag>
+        <tag name="gender">M</tag>
+        <tag name="email">abcd@yahoo.com</tag>
+        <tag name="location">shanghai</tag>
+    </tags>
+    <tags group="category">
+        <tag name="Food" weight="0.8"/>
+        <tag name="Beverages" weight="0.34"/>
+        <tag name="Clothing" weight="0.7"/>
+    </tags>
+    <tags group="brand">
+        <tag name="Iphone" weight="0.6"/>
+        <tag name="Car" weight="0.4"/>
+        <tag name="starbucks" weight="0.7"/>
+    </tags>
+    <tags group="status">
+        <tag name="sports" weight="0.7"/>
+        <tag name="highend" weight="0.6"/>
+    </tags>
+</profile>
