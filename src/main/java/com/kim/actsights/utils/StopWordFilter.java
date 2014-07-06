@@ -1,4 +1,4 @@
-package com.hp.actsights.utils;
+package com.kim.actsights.utils;
 
 import java.util.Set;
 

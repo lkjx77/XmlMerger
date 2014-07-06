@@ -8,17 +8,18 @@
         <tag name="location">shanghai</tag>
     </tags>
     <tags group="category">
-        <tag name="Food" weight="0.8"/>
-        <tag name="Beverages" weight="0.34"/>
-        <tag name="Clothing" weight="0.7"/>
+        <tag name="Food" weight="0.2"/>
+        <tag name="Beverages" weight="0.3"/>
+        <tag name="Clothing" weight="0.4"/>
     </tags>
     <tags group="brand">
-        <tag name="Iphone" weight="0.6"/>
-        <tag name="Car" weight="0.4"/>
-        <tag name="starbucks" weight="0.7"/>
+        <tag name="Iphone" weight="0.1"/>
+        <tag name="Car" weight="0.2"/>
+        <tag name="starbucks" weight="0.3"/>
     </tags>
     <tags group="status">
-        <tag name="sports" weight="0.7"/>
-        <tag name="highend" weight="0.6"/>
+        <tag name="sports" weight="0.2"/>
+        <tag name="highend" weight="0.3"/>
+        <tag name="travel" weight="0.4"/>
     </tags>
 </profile>

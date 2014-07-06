@@ -1,4 +1,4 @@
-package com.hp.actsights.utils;
+package com.kim.actsights.utils;
 
 import org.apache.crunch.*;
 import org.apache.crunch.impl.mr.MRPipeline;

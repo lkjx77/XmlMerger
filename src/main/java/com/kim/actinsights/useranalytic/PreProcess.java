@@ -1,6 +1,6 @@
-package com.hp.actinsights.useranalytic;
+package com.kim.actinsights.useranalytic;
 
-import com.hp.actsights.utils.DataProcessUtil;
+import com.kim.actsights.utils.DataProcessUtil;
 import org.apache.hadoop.conf.Configuration;
 
 /**

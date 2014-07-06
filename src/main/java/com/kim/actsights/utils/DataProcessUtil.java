@@ -1,4 +1,4 @@
-package com.hp.actsights.utils;
+package com.kim.actsights.utils;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileStatus;
