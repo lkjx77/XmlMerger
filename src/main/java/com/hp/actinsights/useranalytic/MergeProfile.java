@@ -46,12 +46,11 @@ public class MergeProfile extends Configured implements Tool {
         // Create an object to coordinate pipeline creation and execution.
         Pipeline pipeline = new MRPipeline(MergeProfile.class, getConf());
 
+
         // Reference a given text file as a collection of Strings.
         PCollection<String> lines = pipeline.readTextFile(inputPath);
 
-        // Define a function that splits each line in a PCollection of Strings into
-        // a PCollection made up of the individual words in the file.
-        // The second argument sets the serialization format.
+        //
         PCollection<String> words = lines.parallelDo(new Tokenizer(), Writables.strings());
 
         // Take the collection of words and remove known stop words.

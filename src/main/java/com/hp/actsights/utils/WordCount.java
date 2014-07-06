@@ -1,10 +1,8 @@
 package com.hp.actsights.utils;
 
-import org.apache.crunch.PCollection;
-import org.apache.crunch.PTable;
-import org.apache.crunch.Pipeline;
-import org.apache.crunch.PipelineResult;
+import org.apache.crunch.*;
 import org.apache.crunch.impl.mr.MRPipeline;
+import org.apache.crunch.io.text.TextFileSource;
 import org.apache.crunch.types.writable.Writables;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
@@ -46,12 +44,26 @@ public class WordCount extends Configured implements Tool {
         Pipeline pipeline = new MRPipeline(WordCount.class, getConf());
 
         // Reference a given text file as a collection of Strings.
-        PCollection<String> lines = pipeline.readTextFile(inputPath);
+//        PCollection<String> lines = pipeline.readTextFile(inputPath);
+
+        PCollection<String> lines = pipeline.read(new TextFileSource(new Path("hdfs://localhost:9000/test"), Writables.strings()));
+        long size = lines.getSize();
 
         // Define a function that splits each line in a PCollection of Strings into
         // a PCollection made up of the individual words in the file.
         // The second argument sets the serialization format.
         PCollection<String> words = lines.parallelDo(new Tokenizer(), Writables.strings());
+
+        lines.parallelDo(new MapFn<String, String>() {
+            @Override
+            public String map(String input) {
+                return null;
+            }
+        }, Writables.strings());
+
+//        PTable<String, Double> pTable;
+//        pTable.groupByKey()
+
 
         // Take the collection of words and remove known stop words.
         PCollection<String> noStopWords = words.filter(new StopWordFilter());
