@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c5c8cfa-f47f-4cf3-869b-e66f2c229a69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/XmlMerger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/XmlSplitter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/MergeProfile.java" afterPath="$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/MergeProfile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/WordCount.java" afterPath="$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/WordCount.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="actinsights-useranalytic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,10 +78,8 @@
       <file leaf-file-name="WordCount.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/WordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="21" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1482">
-              <folding>
-                <element signature="e#2391#2392#0" expanded="true" />
-              </folding>
+            <state line="57" column="21" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.0" vertical-offset="1083" max-vertical-offset="1710">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,7 +87,7 @@
       <file leaf-file-name="Pipeline.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/Pipeline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="30" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="2717">
+            <state line="52" column="30" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="988" max-vertical-offset="3021">
               <folding />
             </state>
           </provider>
@@ -102,7 +96,7 @@
       <file leaf-file-name="Emitter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/Emitter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="7" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+            <state line="30" column="7" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="817">
               <folding />
             </state>
           </provider>
@@ -111,7 +105,7 @@
       <file leaf-file-name="MergeProfile.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/MergeProfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="10" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="1216">
+            <state line="52" column="10" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.0" vertical-offset="988" max-vertical-offset="1520">
               <folding />
             </state>
           </provider>
@@ -120,7 +114,7 @@
       <file leaf-file-name="XmlMerger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/XmlMerger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="39" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="1444">
+            <state line="32" column="39" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1843">
               <folding />
             </state>
           </provider>
@@ -129,10 +123,8 @@
       <file leaf-file-name="Tokenizer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/Tokenizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="258" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="13" column="0" selection-start="258" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="532">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,7 +132,7 @@
       <file leaf-file-name="XmlSplitter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/XmlSplitter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="29" selection-start="375" selection-end="375" vertical-scroll-proportion="0.5766017" vertical-offset="59" max-vertical-offset="608">
+            <state line="8" column="28" selection-start="203" selection-end="203" vertical-scroll-proportion="0.5450237" vertical-offset="37" max-vertical-offset="608">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,7 +143,7 @@
       <file leaf-file-name="MapFn.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/MapFn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="34" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="589">
+            <state line="24" column="34" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="893">
               <folding />
             </state>
           </provider>
@@ -231,6 +223,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,8 +305,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -581,21 +573,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -613,6 +590,21 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
     <list size="1">
@@ -638,12 +630,13 @@
       <workItem from="1404640440487" duration="398000" />
       <workItem from="1404640860624" duration="43000" />
       <workItem from="1404642339651" duration="996000" />
-      <workItem from="1404647212884" duration="3793000" />
+      <workItem from="1404647212884" duration="4566000" />
+      <workItem from="1404652728628" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5321000" />
+    <option name="totallyTimeSpent" value="6104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1368" height="721" extended-state="6" />
@@ -653,7 +646,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32347825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5493934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928944" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -662,19 +655,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869565" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25377643" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0929003" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2794562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29217392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20166163" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22956522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869565" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -701,6 +694,71 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="33" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="2622">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="21" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.0" vertical-offset="1083" max-vertical-offset="1710">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/Pipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="30" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="988" max-vertical-offset="3021">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/Emitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="817">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/MergeProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="10" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.0" vertical-offset="988" max-vertical-offset="1520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actinsights/useranalytic/XmlMerger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="39" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1843">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/Tokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="258" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/XmlSplitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="36" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="608">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/MapFn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="34" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="2622">
           <folding />
         </state>
@@ -709,9 +767,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="48" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1482">
-          <folding>
-            <element signature="e#2391#2392#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -752,51 +808,37 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2.jar!/org/apache/crunch/PCollection.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="458" selection-end="458" vertical-scroll-proportion="0.34896812" vertical-offset="42" max-vertical-offset="1273">
-          <folding />
-        </state>
+        <state line="13" column="42" selection-start="458" selection-end="458" vertical-scroll-proportion="0.34896812" vertical-offset="42" max-vertical-offset="1273" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2.jar!/org/apache/crunch/impl/dist/collect/PCollectionImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="187" selection-end="187" vertical-scroll-proportion="-0.37181997" vertical-offset="285" max-vertical-offset="2337">
-          <folding />
-        </state>
+        <state line="6" column="22" selection-start="187" selection-end="187" vertical-scroll-proportion="-0.37181997" vertical-offset="285" max-vertical-offset="2337" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2.jar!/org/apache/crunch/PTable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="164" selection-end="164" vertical-scroll-proportion="0.1782364" vertical-offset="0" max-vertical-offset="1235">
-          <folding />
-        </state>
+        <state line="6" column="17" selection-start="164" selection-end="164" vertical-scroll-proportion="0.1782364" vertical-offset="0" max-vertical-offset="1235" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/impl/mr/MRPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="13" selection-start="1752" selection-end="1752" vertical-scroll-proportion="0.2962963" vertical-offset="0" max-vertical-offset="2185">
-          <folding />
-        </state>
+        <state line="43" column="13" selection-start="1752" selection-end="1752" vertical-scroll-proportion="0.2962963" vertical-offset="0" max-vertical-offset="2185" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/impl/mem/MemPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="851" selection-end="851" vertical-scroll-proportion="0.11111111" vertical-offset="0" max-vertical-offset="6441">
-          <folding />
-        </state>
+        <state line="19" column="7" selection-start="851" selection-end="851" vertical-scroll-proportion="0.11111111" vertical-offset="0" max-vertical-offset="6441" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/Source.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="1159" selection-end="1159" vertical-scroll-proportion="-1.4580419" vertical-offset="607" max-vertical-offset="1121">
-          <folding />
-        </state>
+        <state line="31" column="17" selection-start="1159" selection-end="1159" vertical-scroll-proportion="-1.4580419" vertical-offset="607" max-vertical-offset="1121" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/PCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="206" column="7" selection-start="7128" selection-end="7128" vertical-scroll-proportion="0.33150685" vertical-offset="3413" max-vertical-offset="4864">
-          <folding />
-        </state>
+        <state line="206" column="7" selection-start="7128" selection-end="7128" vertical-scroll-proportion="0.33150685" vertical-offset="3413" max-vertical-offset="4864" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/crunch/crunch-core/0.9.0-hadoop2/crunch-core-0.9.0-hadoop2-sources.jar!/org/apache/crunch/Emitter.java">
@@ -816,25 +858,19 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="21" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1482">
-          <folding>
-            <element signature="e#2391#2392#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/11.0.2/guava-11.0.2-sources.jar!/com/google/common/base/Splitter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="19" selection-start="4087" selection-end="4087" vertical-scroll-proportion="0.33333334" vertical-offset="1184" max-vertical-offset="9519">
-          <folding />
-        </state>
+        <state line="97" column="19" selection-start="4087" selection-end="4087" vertical-scroll-proportion="0.33333334" vertical-offset="1184" max-vertical-offset="9519" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/Tokenizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="258" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -861,7 +897,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hp/actsights/utils/XmlSplitter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="29" selection-start="375" selection-end="375" vertical-scroll-proportion="0.5766017" vertical-offset="59" max-vertical-offset="608">
+        <state line="8" column="28" selection-start="203" selection-end="203" vertical-scroll-proportion="0.5450237" vertical-offset="37" max-vertical-offset="608">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
