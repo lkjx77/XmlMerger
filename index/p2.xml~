@@ -1,0 +1,17 @@
+<add>
+<doc>
+  <field name="id">com:hp:p2</field>
+  <field name="name">Gill Rodrigus</field>
+  <field name="age">28</field>
+  <field name="gender">female,f</field>
+  <field name="email">abcd@hotmail.com,aaaa@gmail.com</field>
+  <field name="location">beijing, china</field>
+  <!-- category -->
+  <field name="category">Food,Beverages,Clothing,shopping</field>
+  <!-- brand -->
+  <field name="brand">Iphone,car,starbucks,Digital camera,hiking</field>
+  <!-- status -->
+  <field name="status">not married,no children,middle class, average salary</field>
+</doc>
+</add>
+

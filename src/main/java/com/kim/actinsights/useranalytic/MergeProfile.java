@@ -66,22 +66,22 @@ public class MergeProfile extends Configured implements Tool {
             PCollection<String> lines = pipeline.readTextFile(inputFiles.next().getPath().toString());
 
             // Combiner used for summing up response size
-            CombineFn<String, Long> longSumCombiner = CombineFn.SUM_LONGS();
-
-            // Table of (ip, sum(response size))
-            PTable<String, Long> ipAddrResponseSize =
-                    lines.parallelDo(extractIPResponseSize,
-                            Writables.tableOf(Writables.strings(),Writables.longs()))
-                            .groupByKey()
-                            .combineValues(longSumCombiner);
-
-            pipeline.writeTextFile(ipAddrResponseSize, args[1]);
-
-            // Execute the pipeline as a MapReduce.
-            PipelineResult result = pipeline.done();
-
-            System.out.println("status= " + result.status + " result = " + result.toString());
-            rCode = result.succeeded() ? 0 : 1;
+//            CombineFn<String, Long> longSumCombiner = CombineFn.SUM_LONGS();
+//
+//            // Table of (ip, sum(response size))
+//            PTable<String, Long> ipAddrResponseSize =
+//                    lines.parallelDo(extractIPResponseSize,
+//                            Writables.tableOf(Writables.strings(),Writables.longs()))
+//                            .groupByKey()
+//                            .combineValues(longSumCombiner);
+//
+//            pipeline.writeTextFile(ipAddrResponseSize, args[1]);
+//
+//            // Execute the pipeline as a MapReduce.
+//            PipelineResult result = pipeline.done();
+//
+//            System.out.println("status= " + result.status + " result = " + result.toString());
+//            rCode = result.succeeded() ? 0 : 1;
         }
 
         return rCode;

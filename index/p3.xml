@@ -1,0 +1,17 @@
+<add>
+<doc>
+  <field name="id">com:hp:p3</field>
+  <field name="name">James Rodrigus</field>
+  <field name="age">30</field>
+  <field name="gender">male,m</field>
+  <field name="email">abcd@yahoo.com</field>
+  <field name="location">shanghai, china</field>
+  <!-- category -->
+  <field name="category">Food,Beverages,Clothing</field>
+  <!-- brand -->
+  <field name="brand">Iphone,car,starbucks</field>
+  <!-- status -->
+  <field name="status">married,have children,high payment</field>
+</doc>
+</add>
+

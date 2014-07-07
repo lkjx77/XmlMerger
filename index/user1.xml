@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pc1</field>
+    <field name="age">30</field>
+    <field name="gender">M</field>
+    <field name="email">abcd@yahoo.com</field>
+    <field name="location">shanghai</field>
+    <field name="interests">Food,Beverages,Clothing</field>
+    <field name="brand">Iphone,Car,starbucks</field>
+    <field name="status">sports,highend</field>
+  </doc>
+</add>
